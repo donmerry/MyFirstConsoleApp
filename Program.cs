@@ -1,3 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-//My firstProject
-Console.WriteLine("Hello, World!");
+﻿using System;
+class HelloWorld
+{
+    public static void Main(string[] args) 
+    {
+        int a = 5;
+        int b = 7;
+        //program to interchange variables
+        int temp = a;
+        b = a;
+        temp = b;
+        Console.WriteLine("a is :" + a + "b is :" + b );
+    }
+}
+

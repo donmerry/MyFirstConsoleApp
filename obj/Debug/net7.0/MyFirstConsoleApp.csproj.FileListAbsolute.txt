@@ -1,0 +1,15 @@
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\bin\Debug\net7.0\MyFirstConsoleApp.exe
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\bin\Debug\net7.0\MyFirstConsoleApp.deps.json
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\bin\Debug\net7.0\MyFirstConsoleApp.runtimeconfig.json
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\bin\Debug\net7.0\MyFirstConsoleApp.dll
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\bin\Debug\net7.0\MyFirstConsoleApp.pdb
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.csproj.AssemblyReference.cache
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.AssemblyInfo.cs
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.dll
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\refint\MyFirstConsoleApp.dll
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.pdb
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\MyFirstConsoleApp.genruntimeconfig.cache
+c:\Users\hp\Documents\NetProject\MyFirstConsoleApp\obj\Debug\net7.0\ref\MyFirstConsoleApp.dll
